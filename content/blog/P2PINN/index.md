@@ -1,7 +1,6 @@
 ---
 title: 🎉 A Pseudo-Time Stepping and Parameterized Physics-Informed Neural Network Framework for Navier-Stokes Equations
 summary: Congratulations on getting your paper accepted by Physics of Fluids (PoF)!
-date: 2023-10-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
