@@ -1,5 +1,5 @@
 ---
-title: Achievements
+title: 
 date: 2023-10-24
 hide_date: true
 reading_time: false
@@ -24,11 +24,6 @@ reading_time: false
 - Bai H, **Zhang Z**, Yang Y, et al. "Meningioma Segmentation with GV-UNet: A Hybrid Model Using Ghost Module and Vision Transformer." Signal, Image and Video Processing, 2023.
 - Xia X, Cheng Y, **Zhang Z**, et al. "Advancing Research on Odor-Induced Sweetness Enhancement: An EEG Local-Global Fusion Transformer Network for Sweetness Quantification Combined with EEG Technology." Food Chemistry, 2024: 141533.
 
-## Research Projects
-**Intelligent Meningioma Grading Technology Based on Deep Learning**
-- Principal Investigator, Tianjin Graduate Student Research and Innovation Project (2022 - 2024) Project ID: 2022SKY126
-  
-Led the project to integrate radiomics and deep learning for grading meningiomas. Developed lightweight segmentation models and explored multi-modality fusion techniques to address clinical challenges.
 
 ## Software Copyrights and Patents
 
@@ -36,14 +31,3 @@ Led the project to integrate radiomics and deep learning for grading meningiomas
 - Brain Tumor Detection and Classification System Using Deep Learning (Registration No. 2022SR1338597)
 - Automated Acoustic Neuroma Segmentation System (Registration No. 2022SR1338600)
 - Multi-View Image Feature Fusion Method for Meningioma Grading (Patent Status: Under Substantive Examination, No. 2023103459329)
-
-## Honors & Awards
-
-- China National Scholarship
-- Tianjin Innovation Scholarship
-- First-Class Academic Scholarship
-- First Prize, National Industry Integration New Engineering Innovation Competition (Ranked 1st Nationally)
-- First Prize, "Challenge Cup" China College Student Entrepreneurship Competition in Tianjin
-- Second Prize, 14th China Service Outsourcing Innovation and Entrepreneurship Competition
-- Second Prize, "3S Cup" National IoT Technology and Application Competition
-- Third Prize, National Undergraduate Mathematics Competition
