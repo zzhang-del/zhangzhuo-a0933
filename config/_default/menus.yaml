@@ -4,10 +4,10 @@
 main:
   - name: Home
     url: /
-    weight: 15
-  - name: Topics
+    weight: 8
+  - name: Publications
     url: tags/
-    weight: 25
-  - name: Uses
+    weight: 18
+  - name: Experience
     url: uses/
-    weight: 35
+    weight: 28
