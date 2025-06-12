@@ -12,6 +12,8 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
+        show_social: false  # 新增选项，禁用社交链接
+
   - block: collection
     content:
       filters:
