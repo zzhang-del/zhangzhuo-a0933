@@ -11,13 +11,13 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
