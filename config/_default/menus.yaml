@@ -11,6 +11,4 @@ main:
   - name: Experience
     url: Honors/
     weight: 38
-  - name: Contact Me
-    url: contact/
-    weight: 48
+
