@@ -1,6 +1,6 @@
 ---
 title: 🎉 A Pseudo-Time Stepping and Parameterized Physics-Informed Neural Network Framework for Navier-Stokes Equations
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: This research is a collaborative effort with **Dr. Xiong Xiong!
 date: 2023-10-27
 
 # Featured image
