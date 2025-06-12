@@ -7,6 +7,10 @@ reading_time: false
 
 ## Publications
 (#co-first author, *corresponding author)
+
+- Wang S, Zou S, He Y, Gao Q, **Zhang Z***, & Bai H. "A Framework for IDH Genotyping of Gliomas Based on Bi-directional Mamba Sequences." International Conference on Intelligent Computing (ICIC), 2025.
+- **Zhang Z**, Ma Q, Zhao Y, & Yang X. "Integrating Radiomics and Deep Learning for Enhanced Three-Dimensional Meningioma Grading." International Conference on Intelligent Computing (ICIC), 2025.
+- Zhang F, Guo J, Ma Q, Zhang X, & **Zhang Z***. "RDT-Net: A Novel Diffusion-Based Network for Intracranial Hemorrhage Segmentation." International Conference on Intelligent Computing (ICIC), 2025.
 - **Zhang Z**, Xiong X, Zhang S, et al. "A pseudo-time stepping and parameterized physics-informed neural network framework for Navier–Stokes equations." Physics of Fluids, 2025; 37 (3): 033612.
 - Zou S, **Zhang Z#**, & Guangwei Gao. "OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation" 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
 - Zou S, **Zhang Z#**, Zou Y, & Guangwei Gao. "MambaMIC: An Efficient Baseline for Microscopic Image Classification with State Space Models" IEEE International Conference on Multimedia&Expo 2025 (ICME), 2025.
@@ -21,7 +25,7 @@ reading_time: false
 - Xia X, Cheng Y, **Zhang Z**, et al. "Advancing Research on Odor-Induced Sweetness Enhancement: An EEG Local-Global Fusion Transformer Network for Sweetness Quantification Combined with EEG Technology." Food Chemistry, 2024: 141533.
 
 ## Research Projects
-### Intelligent Meningioma Grading Technology Based on Deep Learning###
+**Intelligent Meningioma Grading Technology Based on Deep Learning**
 - Principal Investigator, Tianjin Graduate Student Research and Innovation Project (2022 - 2024) Project ID: 2022SKY126
   
 Led the project to integrate radiomics and deep learning for grading meningiomas. Developed lightweight segmentation models and explored multi-modality fusion techniques to address clinical challenges.
@@ -43,7 +47,3 @@ Led the project to integrate radiomics and deep learning for grading meningiomas
 - Second Prize, 14th China Service Outsourcing Innovation and Entrepreneurship Competition
 - Second Prize, "3S Cup" National IoT Technology and Application Competition
 - Third Prize, National Undergraduate Mathematics Competition
-
-## Desktop Apps
-
-- Better Touch Tool for window management and custom keyboard shortcuts
