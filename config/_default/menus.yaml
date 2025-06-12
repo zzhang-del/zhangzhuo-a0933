@@ -4,10 +4,10 @@
 main:
   - name: Home
     url: /
-    weight: 8
+    weight: 18
   - name: Publications
     url: tags/
-    weight: 18
+    weight: 28
   - name: Experience
     url: uses/
-    weight: 28
+    weight: 38
