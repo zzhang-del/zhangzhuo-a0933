@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Zhuo Zhang (张琢)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhuo Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhuo
+last_name: Zhang
 
 # Status emoji
 status:
