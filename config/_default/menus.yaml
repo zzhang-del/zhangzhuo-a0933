@@ -6,8 +6,8 @@ main:
     url: /
     weight: 18
   - name: Publications
-    url: tags/
+    url: uses/
     weight: 28
   - name: Experience
-    url: uses/
+    url: tags/
     weight: 38
