@@ -3,11 +3,11 @@
 title: Zhuo Zhang (张琢)
 
 # Name pronunciation (optional)
-name_pronunciation: Zhuo Zhang
+# name_pronunciation: Zhuo Zhang
 
 # Full name (for SEO)
-first_name: Zhuo
-last_name: Zhang
+# first_name: Zhuo
+# last_name: Zhang
 
 # Status emoji
 status:
@@ -23,9 +23,6 @@ role: Ph.D. Candidate
 organizations:
   - name: National University of Defense Technology
     url: https://www.nudt.edu.cn/xmtpbl/index.htm
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
