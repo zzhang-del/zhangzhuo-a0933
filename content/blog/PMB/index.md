@@ -1,6 +1,6 @@
 ---
-title: 🎉 Deep learning and radiomics-based approach to meningioma grading: exploring the potential value of peritumoral edema regions
-summary: Congratulations on getting your paper accepted by Physics in Medicine & Biology (PMB)!
+title: "🎉 Deep learning and radiomics-based approach to meningioma grading: exploring the potential value of peritumoral edema regions"
+summary: "Congratulations on getting your paper accepted by Physics in Medicine & Biology (PMB)!" # It's good practice to quote string values too
 date: 2024-12-10
 
 # Featured image
