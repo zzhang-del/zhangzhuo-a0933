@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.hk/citations?hl=zh-CN&user=8ivAjc8AAAAJ
-  - icon: academicons/researchgate
+  - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3506-232X
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
