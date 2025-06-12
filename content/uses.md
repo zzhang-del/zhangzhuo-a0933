@@ -1,14 +1,16 @@
 ---
-title: Publications
+title: Achievements
 date: 2023-10-24
 hide_date: true
 reading_time: false
 ---
+
+## Publications
 (#co-first author, *corresponding author)
 - **Zhang Z**, Xiong X, Zhang S, et al. "A pseudo-time stepping and parameterized physics-informed neural network framework for Navier–Stokes equations." Physics of Fluids, 2025; 37 (3): 033612.
 - Zou S, **Zhang Z#**, & Guangwei Gao. "OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation" 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
 - Zou S, **Zhang Z#**, Zou Y, & Guangwei Gao. "MambaMIC: An Efficient Baseline for Microscopic Image Classification with State Space Models" IEEE International Conference on Multimedia&Expo 2025 (ICME), 2025.
-- **Z Zhang**, Miao Y, Yang Y, et al. "Deep Learning and Radiomics-Based Approach to Meningioma Grading: Exploring Peritumoral Edema Regions." Physics in Medicine & Biology, 2024.
+- **Zhang Z**, Miao Y, Yang Y, et al. "Deep Learning and Radiomics-Based Approach to Meningioma Grading: Exploring Peritumoral Edema Regions." Physics in Medicine & Biology, 2024.
 - **Zhang Z**, Zhang X, Yang Y, et al. "Accurate segmentation algorithm of acoustic neuroma in the cerebellopontine angle based on ACP-TransUNet." Frontiers in Neuroscience, 2023, 17.
 - **Zhang Z**, Wu H, Zhao H, et al. "A Novel Deep Learning Model for Medical Image Segmentation with Convolutional Neural Network and Transformer." Interdisciplinary Sciences: Computational Life Sciences, 2023, 15(4): 663-677.
 - **Zhang Z**, Wen Y, Zhang X, et al. "CI-UNet: Melding ConvNeXt and Cross-Dimensional Attention for Robust Medical Image Segmentation." Biomedical Engineering Letters, 2024.
@@ -18,15 +20,29 @@ reading_time: false
 - Bai H, **Zhang Z**, Yang Y, et al. "Meningioma Segmentation with GV-UNet: A Hybrid Model Using Ghost Module and Vision Transformer." Signal, Image and Video Processing, 2023.
 - Xia X, Cheng Y, **Zhang Z**, et al. "Advancing Research on Odor-Induced Sweetness Enhancement: An EEG Local-Global Fusion Transformer Network for Sweetness Quantification Combined with EEG Technology." Food Chemistry, 2024: 141533.
 
-## Website
+## Research Projects
+- Intelligent Meningioma Grading Technology Based on Deep Learning
+- Principal Investigator, Tianjin Graduate Student Research and Innovation Project (2022 - 2024) Project ID: 2022SKY126
+  
+Led the project to integrate radiomics and deep learning for grading meningiomas. Developed lightweight segmentation models and explored multi-modality fusion techniques to address clinical challenges.
 
-- [Hugo Blox](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/))
+## Software Copyrights and Patents
 
-## Editor + Terminal
+- Precision Meningioma Segmentation System Based on Deep Learning (Registration No. 2023SRO375399)
+- Brain Tumor Detection and Classification System Using Deep Learning (Registration No. 2022SR1338597)
+- Automated Acoustic Neuroma Segmentation System (Registration No. 2022SR1338600)
+- Multi-View Image Feature Fusion Method for Meningioma Grading (Patent Status: Under Substantive Examination, No. 2023103459329)
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+## Honors & Awards
+
+- China National Scholarship
+- Tianjin Innovation Scholarship
+- First-Class Academic Scholarship
+- First Prize, National Industry Integration New Engineering Innovation Competition (Ranked 1st Nationally)
+- First Prize, "Challenge Cup" China College Student Entrepreneurship Competition in Tianjin
+- Second Prize, 14th China Service Outsourcing Innovation and Entrepreneurship Competition
+- Second Prize, "3S Cup" National IoT Technology and Application Competition
+- Third Prize, National Undergraduate Mathematics Competition
 
 ## Desktop Apps
 
