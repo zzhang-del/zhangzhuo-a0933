@@ -23,7 +23,7 @@ sections:
 
   - block: markdown # Define a markdown block
     content:
-      title: 'My Latest News 🚀' # This will be the title for your news section
+      title: 'News 🚀' # This will be the title for your news section
       text: | # Use 'text: |' to indicate multi-line content
         * **December 2023:** I completed an internship at the National Supercomputing Center in Tianjin.
         * **September 2024:** Kicking off my doctoral studies – an exciting new chapter begins! 🎓
