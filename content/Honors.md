@@ -3,6 +3,9 @@ title:
 date: 2023-10-24
 hide_date: true
 reading_time: false
+show_author: false  # 禁用作者信息
+show_social: false  # 禁用社交链接
+show_related: false  # 禁用相关内容
 ---
 
 ## Research Projects
