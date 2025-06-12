@@ -21,7 +21,7 @@ reading_time: false
 - Xia X, Cheng Y, **Zhang Z**, et al. "Advancing Research on Odor-Induced Sweetness Enhancement: An EEG Local-Global Fusion Transformer Network for Sweetness Quantification Combined with EEG Technology." Food Chemistry, 2024: 141533.
 
 ## Research Projects
-- Intelligent Meningioma Grading Technology Based on Deep Learning
+### Intelligent Meningioma Grading Technology Based on Deep Learning###
 - Principal Investigator, Tianjin Graduate Student Research and Innovation Project (2022 - 2024) Project ID: 2022SKY126
   
 Led the project to integrate radiomics and deep learning for grading meningiomas. Developed lightweight segmentation models and explored multi-modality fusion techniques to address clinical challenges.
