@@ -6,8 +6,11 @@ main:
     url: /
     weight: 18
   - name: Publications
-    url: Honors/
+    url: uses/
     weight: 28
   - name: Experience
     url: Honors/
     weight: 38
+  - name: Contact Me
+    url: contact/
+    weight: 48
