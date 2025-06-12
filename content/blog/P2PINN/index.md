@@ -1,6 +1,6 @@
 ---
 title: 🎉 A Pseudo-Time Stepping and Parameterized Physics-Informed Neural Network Framework for Navier-Stokes Equations
-summary: This research is a collaborative effort with **Dr. Xiong Xiong!
+summary: Congratulations on getting your paper accepted by Physics of Fluids (PoF)!
 date: 2023-10-27
 
 # Featured image
