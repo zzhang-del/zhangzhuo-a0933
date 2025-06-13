@@ -8,7 +8,7 @@ main:
   - name: Publications
     url: uses/
     weight: 28
-  - name: Experience
+  - name: Honors
     url: Honors/
     weight: 38
   - name: Contact
