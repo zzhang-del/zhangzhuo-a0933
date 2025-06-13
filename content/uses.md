@@ -1,5 +1,5 @@
 ---
-title: paper
+title: Publications
 hide_date: true
 reading_time: false
 share: false 
