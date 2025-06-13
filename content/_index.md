@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 share: false 
-date: 2023-10-24
+date: 2025-6-13
 type: landing
 sections:
   - block: resume-biography
