@@ -1,6 +1,6 @@
 ---
 title: Publications
 share: false 
-date: 2025-6-13
+date: 2025-06-13
 
 ---
