@@ -2,12 +2,12 @@
 title: "🎉 Deep learning and radiomics-based approach to meningioma grading: exploring the potential value of peritumoral edema regions"
 summary: "Congratulations on getting your paper accepted by Physics in Medicine & Biology (PMB)!" # It's good practice to quote string values too
 date: 2023-10-23
+---
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
 ## Summary & Overview
 
----
 
 This paper presents the culmination of my master's research: a significant study on improving the preoperative grading of meningioma, a common brain tumor. This work, recently accepted by the prestigious **Physics in Medicine & Biology (PMB)** journal, introduces a novel approach that combines **radiomics** (extracting features from medical images) with **deep learning** techniques.
 
