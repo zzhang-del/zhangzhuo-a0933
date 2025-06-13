@@ -1,5 +1,6 @@
 ---
 title: 'Home'
+share: false 
 date: 2023-10-24
 type: landing
 sections:
