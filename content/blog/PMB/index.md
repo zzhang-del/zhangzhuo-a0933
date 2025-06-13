@@ -3,9 +3,6 @@ title: "🎉 Deep learning and radiomics-based approach to meningioma grading: e
 summary: "Congratulations on getting your paper accepted by Physics in Medicine & Biology (PMB)!" # It's good practice to quote string values too
 date: 2023-10-23
 ---
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-
 ## Summary & Overview
 
 
