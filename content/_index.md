@@ -1,6 +1,5 @@
 ---
 title: 'Home'
-share: false 
 type: landing
 sections:
   - block: resume-biography
