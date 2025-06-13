@@ -1,5 +1,6 @@
 ---
 title: Publications
+date: 2025-06-11
 hide_date: true
 reading_time: false
 share: false 
