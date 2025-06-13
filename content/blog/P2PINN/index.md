@@ -2,12 +2,6 @@
 title: 🎉 A Pseudo-Time Stepping and Parameterized Physics-Informed Neural Network Framework for Navier-Stokes Equations
 summary: Congratulations on getting your paper accepted by Physics of Fluids (PoF)!
 date: 2025-2-13
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-
-## Summary & Overview
-
 ---
 
 This poster introduces **P2PINN: A Pseudo-Time Stepping and Parameterized Physics-Informed Neural Network Framework for Navier-Stokes Equations**. Our work addresses two major limitations of traditional Physics-Informed Neural Networks (PINNs): unstable training and the necessity for retraining when PDE parameters change.
