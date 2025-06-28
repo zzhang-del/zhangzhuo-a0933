@@ -21,7 +21,7 @@ role: Ph.D
 
 # Organizations/Affiliations to show in About widget
 # organizations:
-   - name:  Seoul National University
+   - name: Seoul National University
      url: www.snu.ac.kr
 
 # Social Networking
@@ -30,8 +30,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zhangzhuo202309@163.com'
     label: E-mail Me
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.hk/citations?hl=zh-CN&user=8ivAjc8AAAAJ
+  - icon: academicons/google-scholar
+    url: https://scholar.google.hk/citations?hl=zh-CN&user=8ivAjc8AAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3506-232X
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
