@@ -21,9 +21,6 @@ role: Ph.D
 
 # Organizations/Affiliations to show in About widget
 # organizations:
-#   - name: National University of Defense Technology
-#    url: https://www.nudt.edu.cn/xmtpbl/index.htm
-# organizations:
    - name:  Seoul National University
     url: www.snu.ac.kr
 
