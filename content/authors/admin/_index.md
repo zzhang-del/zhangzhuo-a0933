@@ -9,10 +9,6 @@ title: Zhuo Zhang (张琢)
 # first_name: Zhuo
 # last_name: Zhang
 
-# Status emoji
-status:
-  icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -21,8 +17,8 @@ role: Ph.D
 
 # Organizations/Affiliations to show in About widget
 # organizations:
-   - name: Seoul National University
-     url: www.snu.ac.kr
+  - name: Seoul National University
+    url: www.snu.ac.kr
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
