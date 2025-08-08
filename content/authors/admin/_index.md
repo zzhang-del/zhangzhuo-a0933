@@ -18,7 +18,7 @@ role: Ph.D
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Seoul National University
-    url: www.snu.ac.kr
+    url: https://snu.ac.kr
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
