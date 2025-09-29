@@ -32,7 +32,9 @@ sections:
         * **March 2025:** Another medical image processing article, where I was a co-author, was accepted by **ICME**. 💻
         * **May 2025:** Three of our papers were accepted by the **ICIC conference**! 🥳 A big congratulations to Zhang Fan and Wang Shuaidan for their excellent work as first authors on two of those papers.
         * **June 2025:** I'm thrilled to share that I've been awarded the **CSC Visiting PhD Scholarship**! 🌍
-        * **June 2025:** I secured my first research project: **"Research on Multi-parameter High-dimensional Flow Field Solution with Physics and Data Collaboration."** I'm very excited about this!
+        * **July 2025:** I secured my first research project: **"Research on Multi-parameter High-dimensional Flow Field Solution with Physics and Data Collaboration."** I'm very excited about this!
+        * **September 2025:** An article about the Kolmogorov-Arnold Network was accepted by the journal **Expert Systems With Applications (ESWA) 🎉**.
+
     design:
       columns: '1' # This makes the content span one column, usually full width
       # You can add more design options here if needed, like spacing or background
