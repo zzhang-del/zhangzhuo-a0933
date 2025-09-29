@@ -1,6 +1,6 @@
 ---
 title: "🎉 Legend-KINN: A Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neural Network for Efficient PDE Solving"
-summary: 'Congratulations on getting our paper accepted by Expert Systems With Applications (ESWA)!' # 使用单引号
+summary: "Congratulations on getting our paper accepted by Expert Systems With Applications (ESWA)!"
 date: 2025-9-25
 ---
 ## Summary & Overview
