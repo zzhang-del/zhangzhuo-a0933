@@ -1,6 +1,6 @@
 ---
 title: "🎉 Deep learning and radiomics-based approach to meningioma grading: exploring the potential value of peritumoral edema regions"
-summary: 'Congratulations on getting your paper accepted by Physics in Medicine & Biology (PMB)!' # 使用单引号
+summary: 'Congratulations on getting our paper accepted by Physics in Medicine & Biology (PMB)!' # 使用单引号
 date: 2023-10-23
 ---
 ## Summary & Overview
