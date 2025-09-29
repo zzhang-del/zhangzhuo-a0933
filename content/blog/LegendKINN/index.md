@@ -14,7 +14,7 @@ We developed a unique Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neura
 
 ### Article Link
 
-Code is available at:
-* [Deep learning and radiomics-based approach to meningioma grading: exploring the potential value of peritumoral edema regions](https://github.com/zhang-zhuo001/Legend-KINN)
+* **Code is available at:** [Legend-KINN: A Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neural Network for Efficient PDE Solving](https://github.com/zhang-zhuo001/Legend-KINN)
+
 
 
