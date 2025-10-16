@@ -8,7 +8,9 @@ share: false
 
 ## Publications
 (#co-first author, *corresponding author)
-- **Zhang Z**, Xiong X, Zhang S, Wang W, Zhong Y, Yang X, Yang C, Legend-KINN: A Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neural Network for Efficient PDE Solving, 2025.
+- **Zhang Z**, Zhang S, Zhao Y, Wang W, Wu H, & Yang X, "DFS-PINN: A Dynamic Feature Separation Physics-Informed Neural Network", 2025, 191: 103992, Computer-Aided Design.
+- Wen Y#, **Zhang Z#**, Ma X, Zhu P, Li J, Niu G, & Miao Q, "Rule-Semantic Generative Calibration Blur Detection for UAV Imagery", 2025, IEEE Transactions on Circuits and Systems for Video Technology.
+- **Zhang Z**, Xiong X, Zhang S, Wang W, Zhong Y., Yang C, & Yang X "Legend-KINN: A Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neural Network for Efficient PDE Solving." Expert Systems with Applications, 2025; 129839.
 - Wang S, Zou S, He Y, Gao Q, **Zhang Z***, & Bai H. "A Framework for IDH Genotyping of Gliomas Based on Bi-directional Mamba Sequences." International Conference on Intelligent Computing (ICIC), 2025.
 - **Zhang Z**, Ma Q, Zhao Y, & Yang X. "Integrating Radiomics and Deep Learning for Enhanced Three-Dimensional Meningioma Grading." International Conference on Intelligent Computing (ICIC), 2025.
 - Zhang F, Guo J, Ma Q, Zhang X, & **Zhang Z***. "RDT-Net: A Novel Diffusion-Based Network for Intracranial Hemorrhage Segmentation." International Conference on Intelligent Computing (ICIC), 2025.
