@@ -17,8 +17,8 @@ role: Ph.D
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Seoul National University
-    url: https://snu.ac.kr
+  - name: National University of Defense Technology
+    url: https://www.nudt.edu.cn
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:zhangzhuo202309@163.com'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.hk/citations?hl=zh-CN&user=8ivAjc8AAAAJ
+    url: https://scholar.google.com/citations?user=QMHuphEAAAAJ&hl=zh-CN&authuser=1&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3506-232X
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -41,6 +41,6 @@ highlight_name: true
 # Author's website URL
 website: "https://scholar.google.hk/citations?hl=zh-CN&user=8ivAjc8AAAAJ"
 ---
-Hi! I'm Zhuo Zhang, currently a visiting scholar at Seoul National University in South Korea. My research is supervised by Prof. Canqun Yang (Deputy Chief Designer of the Tianhe-2 project). I earned my M.S. degree in Information and Communication Engineering from Tiangong University in December 2023, where I was supervised by Prof. Yong Yang (recognized as a Top 2% Scientist Worldwide) and Prof. Hua Bai.
+Hi! I'm Zhuo Zhang, currently a visiting scholar at Seoul National University in South Korea. I earned my Ph.D. degree from the National University of Defense Technology (NUDT), where my research was supervised by Prof. Canqun Yang (Deputy Chief Designer of the Tianhe-2 project). I also earned my M.S. degree in Information and Communication Engineering from Tiangong University in December 2023, where I was supervised by Prof. Yong Yang (recognized as a Top 2% Scientist Worldwide) and Prof. Hua Bai.
 
 My research interests include AI4S and medical image processing. If you're interested in AI4S or medical image processing, feel free to reach out!
