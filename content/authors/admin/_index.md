@@ -13,7 +13,7 @@ title: Zhuo Zhang (张琢)
 superuser: true
 
 # Role/position/tagline
-role: Ph.D
+role: Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -41,6 +41,6 @@ highlight_name: true
 # Author's website URL
 website: "https://scholar.google.hk/citations?hl=zh-CN&user=8ivAjc8AAAAJ"
 ---
-Hi! I'm Zhuo Zhang, currently a visiting scholar at National University of Singapore. I earned my Ph.D. degree from the National University of Defense Technology (NUDT), where my research was supervised by Prof. Canqun Yang (Deputy Chief Designer of the Tianhe-2 project). I also earned my M.S. degree in Information and Communication Engineering from Tiangong University in December 2023, where I was supervised by Prof. Yong Yang (recognized as a Top 2% Scientist Worldwide) and Prof. Hua Bai.
+Hi! I'm Zhuo Zhang, currently a visiting PhD at National University of Singapore. I am currently pursuing my Ph.D. degree at the National University of Defense Technology (NUDT), where my research is supervised by Prof. Canqun Yang (Deputy Chief Designer of the Tianhe-2 project). I also earned my M.S. degree in Information and Communication Engineering from Tiangong University in December 2023, where I was supervised by Prof. Yong Yang (recognized as a Top 2% Scientist Worldwide) and Prof. Hua Bai.
 
 My research interests include AI4S and medical image processing. If you're interested in AI4S or medical image processing, feel free to reach out!
