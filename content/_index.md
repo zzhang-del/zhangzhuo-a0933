@@ -34,7 +34,7 @@ sections:
         * **June 2025:** Thrilled to have officially begun my international visiting research journey! 🌍
         * **July 2025:** I secured my first research project: **"Research on Multi-parameter High-dimensional Flow Field Solution with Physics and Data Collaboration."** I'm very excited about this!
         * **September 2025:** An article about the Kolmogorov-Arnold Network was accepted by the journal **Expert Systems With Applications (ESWA) 🎉**.
-
+        * **December 2025:** Honored to be selected for the **CAST Youth Science and Technology Talent Cultivation Program for Doctoral Students**! 
     design:
       columns: '1' # This makes the content span one column, usually full width
       # You can add more design options here if needed, like spacing or background
