@@ -20,6 +20,7 @@ The project explores advanced physics-data coupling methods to efficiently handl
 
 ## Honors & Awards
 
+- CAST Youth Science and Technology Talent Cultivation Program for Doctoral Students
 - China National Scholarship
 - Tianjin Innovation Scholarship
 - First-Class Academic Scholarship
