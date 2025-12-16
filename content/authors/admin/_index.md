@@ -17,8 +17,8 @@ role: Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National University of Singapore
-    url: https://nus.edu.sg/
+  - name: National University of Defense Technology
+    url: https://english.nudt.edu.cn/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -32,7 +32,7 @@ profiles:
     url: https://orcid.org/0000-0002-3506-232X
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: https://zzhang-del.github.io/
     label: Download my resume
 
 # Highlight the author in author lists? (true/false)
